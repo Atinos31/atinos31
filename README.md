@@ -9,6 +9,6 @@ Recently enjoying problem solving as well.
 I am currently working on something cool<img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
 ## Find me around the web 🌎:
 - <a href="https://github.com/Atinos31"> github</a>
-- Student at <a href="https://hackyourfuture.be/">hack your future Belgium</a> 📹 ✍🏾<br>
+- Student at <a href="https://codeinstitute.net/">Code Institute</a> 📹 ✍🏾<br>
 - come say  hi on  <a href="https://twitter.com/atinos31"> twitter</a> 🏓<br>
 :handshake: And making connections on <a href="https://www.linkedin.com/in/sandra-atino-459a231a9/">LinkedIn</a> 💼 
