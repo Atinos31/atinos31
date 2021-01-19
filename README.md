@@ -11,6 +11,6 @@ I am currently working on something cool<img src="https://camo.githubusercontent
 - <a href="https://github.com/Atinos31"> github</a>
 - Student at <a href="https://codeinstitute.net/">Code Institute</a> 📹 ✍🏾<br>
 - come say  hi on  <a href="https://twitter.com/atinos31"> twitter</a> 🏓<br>
-:handshake: And making connections on <a href="https://www.linkedin.com/in/sandra-atino-459a231a9/">LinkedIn</a> 💼 
+:handshake: Let's connect on <a href="https://www.linkedin.com/in/sandra-atino-459a231a9/">LinkedIn</a> 💼 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atinos31)](https://github.com/atinos31/github-readme-stats)
