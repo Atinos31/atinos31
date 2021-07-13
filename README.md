@@ -44,7 +44,6 @@ I am currently working on something cool<img src="https://camo.githubusercontent
 - Student at <a href="https://codeinstitute.net/">Code Institute</a> 📹 ✍🏾<br>
 - Come say  hi on  <a href="https://twitter.com/atinos31"> Twitter</a> 🏓<br>
 
-![Sandra on GitHb](https://github-readme-stats.vercel.app/api?username=atinos31)
 
 
 
