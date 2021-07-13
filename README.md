@@ -1,16 +1,21 @@
-### Hi there👋🏾👩🏾‍💻
+
+### Hi there 👋🏾 👩🏾‍💻
+![sandra banner](https://github.com/Atinos31/atinos31/blob/master/Blue%20and%20White%20Technology%20LinkedIn%20Banner.png)
+
 I'm Sandra from Belgium and a junior Software Developer currently looking for roles in Software Engineering.<br>
-I really enjoy learning new languages and frameworks<br>
-I also enjoy wireframing, ui, ux and design in general.<br>
-🤝Let's connect on <a href="https://www.linkedin.com/in/sandra-atino-459a231a9/">Linkedin </a>  💼 
+
+I really enjoy learning new languages and frameworks. <br>
+
+I also enjoy Wireframing, UI, UX and Design in general.<br>
+
+I am currently working on something cool<img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
+---
 
 
 
 
 ![Sandra on GitHb](https://github-readme-stats.vercel.app/api?username=atinos31)
 
-I am currently working on something cool<img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
----
 
 ### Programming Languages
 
@@ -40,19 +45,18 @@ I am currently working on something cool<img src="https://camo.githubusercontent
 
 
 ## Find me around the web 🌎:
-- <a href="https://github.com/Atinos31"> github</a>
-- Student at <a href="https://codeinstitute.net/">Code Institute</a> 📹 ✍🏾<br>
-- Come say  hi on  <a href="https://twitter.com/atinos31"> Twitter</a> 🏓<br>
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 
+- - Let's connect on <a href="https://www.linkedin.com/in/sandra-atino-459a231a9/">Linkedin </a> 💼 
+- - Come say  hi on  <a href="https://twitter.com/atinos31"> Twitter</a> 🏓<br>
+- - 📫 How to reach me: atino31.dev@gmail.com 
+- - ⚡ Fun fact: I dream about solving problems 
 
+-------------------------------------------------
+### Traveller at heart
+✈ Countries visited🌍
 
-
-## Traveller at heart
-
-✈ I hate departing but goodlord i love arriving ! 🌍
-
-Here i felt the earth beneath my feet/
 
 ![Belgium](https://www.countryflags.io/be/flat/32.png)
 ![Uganda](https://www.countryflags.io/ug/flat/32.png)
