@@ -38,10 +38,14 @@ I also enjoy Wireframing, UI, UX and Design in general.<br>
 ![repl.it](https://img.shields.io/badge/repl.it%20-%23101B30.svg?&style=for-the-badge&logo=repl.it&logoColor=93969C)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp%20-%2300471b.svg?&style=for-the-badge&logo=freeCodeCamp&logoColor=F1BE32)](https://www.freecodecamp.org/atinos31)
 
+### Hosting 
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
+
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
 
 ### Design | Wireframes
 
