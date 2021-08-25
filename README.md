@@ -52,7 +52,7 @@ I also enjoy Wireframing, UI, UX and Design in general.<br>
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 
 ## Find me around the web 🌎:
-<a href="https://github.com/Atinos31"><img align="left" width="150" height="150" src="https://octodex.github.com/nuxtocat/"></a>
+<a href="https://github.com/Atinos31"><img align="left" width="150" height="150" src="Sandra-octocat-rotating.gif"></a>
 
 
 - - Let's connect on <a href="https://www.linkedin.com/in/sandra-atino-459a231a9/">Linkedin </a> 💼 
