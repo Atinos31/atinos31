@@ -72,17 +72,24 @@ I am currently working on something cool<img src="https://camo.githubusercontent
 ![Sandra on GitHb](https://github-readme-stats.vercel.app/api?username=atinos31)
 
 -------------------------------------------------
-### Traveller at heart
+### Traveller at heart.
+Originally From:
+
+![Uganda](https://cdn.countryflags.com/thumbs/uganda/flag-400.png)
+------------------------------------------------------------------------------
 ✈ Countries visited🌍
+------------------------------------
+![France](https://cdn.countryflags.com/thumbs/france/flag-400.png)
+![Germany](https://cdn.countryflags.com/thumbs/germany/flag-400.png)
+![Hungary](https://cdn.countryflags.com/thumbs/hungary/flag-400.png)
+![Kenya](https://cdn.countryflags.com/thumbs/kenya/flag-400.png)
+![Burundi](https://cdn.countryflags.com/thumbs/burundi/flag-400.png)
+![Luxembourg](https://cdn.countryflags.com/thumbs/luxembourg/flag-400.png)
+![Netherlands](https://cdn.countryflags.com/thumbs/netherlands/flag-400.png)
+------------------------------------------------------------------------------
+Currently residing in:
+-----------------------------------------------------------------------
+![Belgium](https://cdn.countryflags.com/thumbs/belgium/flag-400.png)
 
-
-![Belgium](https://www.countryflags.io/be/flat/32.png)
-![Uganda](https://www.countryflags.io/ug/flat/32.png)
-![France](https://www.countryflags.io/fr/flat/32.png)
-![Germany](https://www.countryflags.io/de/flat/32.png)
-![Hungary](https://www.countryflags.io/hu/flat/32.png)
-![Kenya](https://www.countryflags.io/ke/flat/32.png)
-![Luxembourg](https://www.countryflags.io/lu/flat/32.png)
-![Netherlands](https://www.countryflags.io/nl/flat/32.png)
 
 ... life is a journey!
