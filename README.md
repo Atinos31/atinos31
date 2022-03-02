@@ -2,11 +2,11 @@
 ### Hi there 👋🏾 👩🏾‍💻
 ![sandra banner](https://github.com/Atinos31/atinos31/blob/master/Blue%20and%20White%20Technology%20LinkedIn%20Banner.png)
 
-I'm Sandra from Belgium and a junior Software Developer currently looking for roles in Software Engineering.<br>
+I'm Sandra from Belgium and a junior Software Developer currently looking for entry remote roles in tech industry.<br>
 
-I really enjoy learning new languages and frameworks. <br>
+I enjoy being challenged and learning new technology <br>
 
-I also enjoy Wireframing, UI, UX and Design in general.<br>
+I also enjoy creative coding, UI, UX and Design in general.<br>
 
 --------------------------------------------------------------------------------------------------------------
 
