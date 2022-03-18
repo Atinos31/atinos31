@@ -7,6 +7,7 @@ I'm Sandra from Belgium and a junior Software Developer currently looking for en
 I enjoy being challenged and learning new technology <br>
 
 I also enjoy creative coding, UI, UX and Design in general.<br>
+### [ Check out My Portfolio](https://atinos31.github.io/)
 
 --------------------------------------------------------------------------------------------------------------
 
