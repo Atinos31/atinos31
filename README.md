@@ -1,17 +1,35 @@
 
-### Hi there 👋🏾 👩🏾‍💻
+
 ![sandra banner](https://github.com/Atinos31/atinos31/blob/master/Blue%20and%20White%20Technology%20LinkedIn%20Banner.png)
 
-I'm Sandra from Belgium and a junior Software Developer currently looking for entry remote roles in tech industry.<br>
 
-I enjoy being challenged and learning new technology <br>
+<h1 align="center">Hi 👋, I'm Sandra</h1>
+<h3 align="center">A passionate fullstack developer from Belgium looking for entry role position in the tech industry</h3>
 
-I also enjoy creative coding, UI, UX and Design in general.<br>
-### [ Check out My Portfolio](https://atinos31.github.io/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" /> </p>
+<img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="coding" />
 
+- 🔭 I’m currently working **an e-commerce project**
+
+- 🌱 I’m currently learning **React Native**
+
+- 👯 I’m looking to collaborate on **open source projects**
+
+- 🤝 I’m looking for help with **Mobile development**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://atinos31.github.io/)
+
+- 💬 Ask me about **HTML5 |CSS3 | Bootstrap | Django**
+
+- 📫 How to reach me **atinos31.dev@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://atinos31.github.io/resume.html)
+
+- ⚡ Fun fact: **Sarcastic Human**
+ 
 --------------------------------------------------------------------------------------------------------------
-
-### Programming Languages
+ 
+## Programming Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
@@ -48,49 +66,74 @@ I also enjoy creative coding, UI, UX and Design in general.<br>
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
 
+
 ### Design | Wireframes
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 
-## Find me around the web 🌎:
-<a href="https://github.com/Atinos31"><img align="left" width="150" height="150" src="Sandra-octocat-rotating.gif"></a>
-
-
-- - Let's connect on <a href="https://www.linkedin.com/in/sandra-atino-459a231a9/">Linkedin </a> 💼 
-- - Come say  hi on  <a href="https://twitter.com/atinos31"> Twitter</a> 🏓<br>
-- - 📫 How to reach me: atino31.dev@gmail.com 
-- - ⚡ Fun fact: I dream about solving problems 
 
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-I am currently working on something cool<img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
+I'm always working on something cool<img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
 ---
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atinos31&show_icons=true&locale=en&layout=compact" alt="atinos31" /></p>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atinos31&show_icons=true&locale=en" alt="atinos31" /></p></br>
 
-![Sandra on GitHb](https://github-readme-stats.vercel.app/api?username=atinos31)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atinos31&" alt="atinos31" /></p>
+
+
 
 -------------------------------------------------
-### Traveller at heart.
-Originally From:
+
+<h3 align="left">Find me around the Web:</h3>
+
+<a href="https://github.com/Atinos31"><img align="left" width="170" height="170" src="Sandra-octocat-rotating.gif"></a>
+
+<p align="left">
+<a href="https://twitter.com/atinos31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atinos31" height="30" width="40" /></a></p>
+<p><a href="https://www.linkedin.com/in/sandra-atino-459a231a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandra atino" height="30" width="40" /></a></p>
+<p><a href="https://fb.com/grace rock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grace rock" height="30" width="40" /></a></p
+<p><a href="https://instagram.com/dustyflame2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dustyflame2.0" height="30" width="40" /></a></p>
+
+
+## Traveller at heart.
+---
+
+### Born & Bred In:
 
 ![Uganda](https://cdn.countryflags.com/thumbs/uganda/flag-400.png)
-------------------------------------------------------------------------------
-✈ Countries visited🌍
-------------------------------------
-![France](https://cdn.countryflags.com/thumbs/france/flag-400.png)
-![Germany](https://cdn.countryflags.com/thumbs/germany/flag-400.png)
-![Hungary](https://cdn.countryflags.com/thumbs/hungary/flag-400.png)
-![Kenya](https://cdn.countryflags.com/thumbs/kenya/flag-400.png)
-![Burundi](https://cdn.countryflags.com/thumbs/burundi/flag-400.png)
-![Luxembourg](https://cdn.countryflags.com/thumbs/luxembourg/flag-400.png)
-![Netherlands](https://cdn.countryflags.com/thumbs/netherlands/flag-400.png)
-------------------------------------------------------------------------------
-Currently residing in:
------------------------------------------------------------------------
+---
+
+### Currently Residing In:
+
 ![Belgium](https://cdn.countryflags.com/thumbs/belgium/flag-400.png)
+##### ✈ Countries Visited🌍
+---
 
+![France](https://cdn.countryflags.com/thumbs/france/flag-400.png)<br>
+---
 
-... life is a journey!
+![Germany](https://cdn.countryflags.com/thumbs/germany/flag-400.png)<br>
+---
+
+![Hungary](https://cdn.countryflags.com/thumbs/hungary/flag-400.png)<br>
+---
+
+![Kenya](https://cdn.countryflags.com/thumbs/kenya/flag-400.png)<br>
+---
+
+![Burundi](https://cdn.countryflags.com/thumbs/burundi/flag-400.png)<br>
+---
+
+![Luxembourg](https://cdn.countryflags.com/thumbs/luxembourg/flag-400.png)<br>
+---
+
+![Netherlands](https://cdn.countryflags.com/thumbs/netherlands/flag-400.png)<br>
+
+----------------------------------
+
+... Code away!
