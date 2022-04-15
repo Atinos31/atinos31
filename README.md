@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">A passionate fullstack developer from Belgium looking for entry role position in the tech industry</h3>
+<p>I'm a hard worker with a lot of attention to detail & I'm always eager to learn and improve my skills.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" /> </p>
 <img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="coding" />
@@ -47,6 +48,8 @@
 ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
+![Sass](https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=FFFFFF)
+![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
 ### Version Control | Coding
 
@@ -57,19 +60,23 @@
 ![repl.it](https://img.shields.io/badge/repl.it%20-%23101B30.svg?&style=for-the-badge&logo=repl.it&logoColor=93969C)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp%20-%2300471b.svg?&style=for-the-badge&logo=freeCodeCamp&logoColor=F1BE32)](https://www.freecodecamp.org/atinos31)
 
-### Hosting 
+### Hosting |Saas
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
 
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
 
 ### Design | Wireframes
-
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator%20-%23251200.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=F87900)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma%20-%23251200.svg?&style=for-the-badge&logo=Balsamiq&logoColor=F87900)
 
 
 
@@ -81,7 +88,7 @@ I'm always working on something cool<img src="https://camo.githubusercontent.com
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atinos31&show_icons=true&locale=en&layout=compact" alt="atinos31" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atinos31&show_icons=true&locale=en" alt="atinos31" /></p></br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atinos31&show_icons=true?" alt="atinos31" /></p></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atinos31&" alt="atinos31" /></p>
 
