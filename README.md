@@ -6,11 +6,14 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">A passionate fullstack developer from Belgium looking for entry role position in the tech industry</h3>
 <p>I'm a hard worker with a lot of attention to detail & I'm always eager to learn and improve my skills.</p>
+<p>  My experience includes workin with a wide range of technologies such as Python, Django, Javascript, JQuery, Rest APIs , BooTstrap , CSS & HTML.
+ I am confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" /> </p>
 <img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="coding" />
 
-- 🔭 I’m currently working **an e-commerce project**
+- 🔭 I’m currently working **an e-commerce project** internship project
+- 👨‍💻 My top languages & technologies are Python, Django, Flask, SQL, Html, CSS, Materialize, Bootstrap, JavaScipt & Jquery.
 
 - 🌱 I’m currently learning **React Native**
 
@@ -20,12 +23,12 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://atinos31.github.io/)
 
-- 💬 Ask me about **HTML5 |CSS3 | Bootstrap | Django**
+- 💬 Ask me about **HTML5 |CSS3 | Bootstrap | Django** | Scrum |Project boards | agile | Hackathons
 
 - 📫 How to reach me **atinos31.dev@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://atinos31.github.io/resume.html)
-- Hackathon collabs: [St.patricks](https://keisgsmit.github.io/Hackathon/),[Mental health](https://metimeminds.herokuapp.com/resources/), [Earth day]()
+- Hackathon collabs: [St.patricks](https://keisgsmit.github.io/Hackathon/),[Mental health](https://metimeminds.herokuapp.com/resources/), [Earth day](http://mother-earth-hackathon.herokuapp.com/)
 
 - ⚡ Fun fact: **Sarcastic Human**
  
