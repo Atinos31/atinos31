@@ -4,10 +4,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Sandra</h1>
-<h3 align="center">A passionate fullstack developer from Belgium looking for entry role position in the tech industry</h3>
+<h2 align="center">A passionate full stack developer from Belgium looking for entry role position in the tech industry.</h2>
 <p>I'm a hard worker with a lot of attention to detail & I'm always eager to learn and improve my skills.</p>
 <p>  My experience includes workin with a wide range of technologies such as Python, Django, Javascript, JQuery, Rest APIs , BooTstrap , CSS & HTML.
- I am confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases</p>
+ I am confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" /> </p>
 <img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="coding" />
