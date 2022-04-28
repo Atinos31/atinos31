@@ -24,7 +24,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://atinos31.github.io/)
 
 - 💬 Ask me about **HTML5 |CSS3 | Bootstrap | Django** | Scrum |Project boards | agile | Hackathons
-
+- Profession Interests are Artificial Intelligence, Machine Learning & Data Analysis
 - 📫 How to reach me **atinos31.dev@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://atinos31.github.io/resume.html)
