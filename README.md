@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" /> </p>
 <img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="coding" />
 
-- 🔭 I’m currently working **an e-commerce project** internship project
+- 🔭 I’m currently working **an e-commerce  Internship project** 
 - 👨‍💻 My top languages & technologies are Python, Django, Flask, SQL, Html, CSS, Materialize, Bootstrap, JavaScipt & Jquery.
 
 - 🌱 I’m currently learning **React Native**
