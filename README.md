@@ -28,7 +28,7 @@
 - 📫 How to reach me **atinos31.dev@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://atinos31.github.io/resume.html)
-- Hackathon collabs: [St.patricks](https://keisgsmit.github.io/Hackathon/),[Mental health](https://metimeminds.herokuapp.com/resources/), [Earth day](http://mother-earth-hackathon.herokuapp.com/)
+- Hackathon collabs: [St.patricks](https://keisgsmit.github.io/Hackathon/),[Mental health](https://metimeminds.herokuapp.com/resources/), [Earth day](http://mother-earth-hackathon.herokuapp.com/),[Betaminds](https://beta-mind.herokuapp.com/)
 
 - ⚡ Fun fact: **Sarcastic Human**
  
