@@ -4,8 +4,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Sandra</h1>
-<h2 align="center">A passionate full stack developer from Belgium looking for entry role position in the tech industry.</h2>
+<h2 align="center">A passionate, resourcefull  full stack developer from Belgium looking for entry role position in the tech industry.</h2>
+
 <p>I'm a hard worker with a lot of attention to detail & I'm always eager to learn and improve my skills.</p>
+<p> Fuelled by a life-long passion for IT, I use the tools and resources at my disposal to create systems that save time, help people work more effectively and improve over all user experience</p>
 <p>  My experience includes workin with a wide range of technologies such as Python, Django, Javascript, JQuery, Rest APIs , BooTstrap , CSS & HTML.
  I am confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.</p>
 
