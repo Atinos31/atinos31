@@ -4,17 +4,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Sandra</h1>
-<h2 align="center">A passionate, resourcefull  full stack developer from Belgium looking for entry role position in the tech industry.</h2>
+<h3 align="center">A passionate, resourcefull  full stack developer from Belgium interested in developing robust, Full-stack applications that solve business needs.</h3>
 
 <p>I'm a hard worker with a lot of attention to detail & I'm always eager to learn and improve my skills.</p>
 <p> Fuelled by a life-long passion for IT, I use the tools and resources at my disposal to create systems that save time, help people work more effectively and improve over all user experience</p>
-<p>  My experience includes workin with a wide range of technologies such as Python, Django, Javascript, JQuery, Rest APIs , BooTstrap , CSS & HTML.
+<p>  My experience includes working with a wide range of technologies such as Python, Django, Javascript, JQuery, Rest APIs , BooTstrap , CSS & HTML.
  I am confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" /> </p>
 <img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="coding" />
 
-- 🔭 I’m currently working **an e-commerce  Internship project** 
+- 🔭 I’m currently working ** learning new skills** 
 - 👨‍💻 My top languages & technologies are Python, Django, Flask, SQL, Html, CSS, Materialize, Bootstrap, JavaScipt & Jquery.
 
 - 🌱 I’m currently learning **React Native**
