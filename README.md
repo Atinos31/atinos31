@@ -1,6 +1,7 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=atinos31" alt="tinos31" /></a> </p>
 
 
-![sandra banner](https://github.com/Atinos31/atinos31/blob/master/Blue%20and%20White%20Technology%20LinkedIn%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Sandra</h1>
@@ -35,6 +36,9 @@
 - ⚡ Fun fact: **Sarcastic Human**
  
 --------------------------------------------------------------------------------------------------------------
+
+
+
  
 ## Programming Languages
 
