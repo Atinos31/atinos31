@@ -1,5 +1,6 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=atinos31&theme=onedark" alt="atinos31" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=atinos31" alt="atinos31" /></a> </p>
+
 
 
 
