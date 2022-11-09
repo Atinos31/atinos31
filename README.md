@@ -1,42 +1,56 @@
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=atinos31" alt="atinos31" /></a> </p>
 
+<h2 align="center">Hi there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
+<!-- Animation Typing -->
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Sandra+Atino.;I'm+a+Full+Stack+Developer,+tech+fanatic;"></a>
+</p>
 
+<!-- Animation Typing: END -->
 
-<h1 align="center">Hi 👋, I'm Sandra</h1>
-<h3 align="center">A passionate, resourcefull  full stack developer from Belgium interested in developing robust, Full-stack applications that solve business needs.</h3>
+<!-- Profile Views -->
 
-<p>I'm a hard worker with a lot of attention to detail & I'm always eager to learn and improve my skills.</p>
-<p> Fuelled by a life-long passion for IT, I use the tools and resources at my disposal to create systems that save time, help people work more effectively and improve over all user experience</p>
-<p>  My experience includes working with a wide range of technologies such as Python, Django, Javascript, JQuery, Rest APIs , BooTstrap , CSS & HTML.
- I am confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" /> </p>
-<img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="coding" />
+<!-- Profile Views: END -->
 
-- 🔭 I’m currently working ** learning new skills** 
-- 👨‍💻 My top languages & technologies are Python, Django, Flask, SQL, Html, CSS, Materialize, Bootstrap, JavaScipt & Jquery.
+<!--Image Gif-->
+<img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
 
-- 🌱 I’m currently learning **React Native**
+<!-- About me section -->
 
-- 👯 I’m looking to collaborate on **open source projects**
+<h2>⚡️ About Me</h2>
 
-- 🤝 I’m looking for help with **Mobile development**
+<ul>
+  <li>✨ I’m Sandra </li>
+  
+  <li>👨‍💻 I work consistently to write and improve scalable content for brands and companies</li>
+  
+  <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
+  
+  <li>💬 I'm passionate about building sustainable tech communities, especially in the Open-Source space.</li>
+  
+  <li>🎉🌱 Fun Fact : I love contributing to open source projects</li>
+</ul>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://atinos31.github.io/)
+<!-- About me section: END -->
 
-- 💬 Ask me about **HTML5 |CSS3 | Bootstrap | Django** | Scrum |Project boards | agile | Hackathons
-- Professional Interests include Artificial Intelligence, Machine Learning & Data Analysis
-- 📫 How to reach me **atinos31.dev@gmail.com**
+--------------------------
 
-- 📄 Know about my experiences [Resume](https://atinos31.github.io/resume.html)
-- Hackathon collabs: [St.patricks](https://keisgsmit.github.io/Hackathon/), [Mental health](https://metimeminds.herokuapp.com/resources/), [Earth day](http://mother-earth-hackathon.herokuapp.com/), [Betaminds](https://beta-mind.herokuapp.com/), [pride-park](https://pride-park.herokuapp.com/)
+<h3 align="left">Find me around the Web:</h3>
 
-- ⚡ Fun fact: **Sarcastic Human**
- 
---------------------------------------------------------------------------------------------------------------
+<a href="https://github.com/Atinos31"><img align="left" width="170" height="170" src="Sandra-octocat-rotating.gif"></a>
+
+<p align="left">
+<a href="https://twitter.com/atinos31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atinos31" height="30" width="40" /></a></p>
+<p><a href="https://www.linkedin.com/in/sandra-atino-459a231a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandra atino" height="30" width="40" /></a></p>
+<p><a href="https://fb.com/grace rock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grace rock" height="30" width="40" /></a></p
+<p><a href="https://instagram.com/dustyflame2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dustyflame2.0" height="30" width="40" /></a></p>
+
+------------------------------
 
 
 
@@ -107,16 +121,10 @@ I'm always working on something cool<img src="https://camo.githubusercontent.com
 
 -------------------------------------------------
 
-<h3 align="left">Find me around the Web:</h3>
 
-<a href="https://github.com/Atinos31"><img align="left" width="170" height="170" src="Sandra-octocat-rotating.gif"></a>
 
-<p align="left">
-<a href="https://twitter.com/atinos31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atinos31" height="30" width="40" /></a></p>
-<p><a href="https://www.linkedin.com/in/sandra-atino-459a231a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandra atino" height="30" width="40" /></a></p>
-<p><a href="https://fb.com/grace rock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grace rock" height="30" width="40" /></a></p
-<p><a href="https://instagram.com/dustyflame2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dustyflame2.0" height="30" width="40" /></a></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=atinos31" alt="atinos31" /></a> </p>
 
 ## Traveller at heart.
 ---
