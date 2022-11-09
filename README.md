@@ -1,10 +1,15 @@
 
 <h2 align="center">Hi there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
+
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Sandra+Atino.;I'm+a+Full+Stack+Developer,+tech+fanatic;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Sandra+Atino.;I'm++tech+fanatic;"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" /></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -31,8 +36,6 @@
   <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
   
 <li> :mailbox: How to reach me atinos31.dev@gmail.com</li>
-<li> :page_facing_up: Know about my experiences ![Resume](https://atinos31.github.io/resume.html)</li>
-  <li>💬  Hackathon collabs: [St.patricks](https://keisgsmit.github.io/Hackathon/), [Mental health](https://metimeminds.herokuapp.com/resources/), [Earth day](http://mother-earth-hackathon.herokuapp.com/), [Betaminds](https://beta-mind.herokuapp.com/), [pride-park](https://pride-park.herokuapp.com/)</li>
 
 </ul>
 
@@ -45,18 +48,30 @@
 
 <a href="https://github.com/Atinos31"><img align="left" width="170" height="170" src="Sandra-octocat-rotating.gif"></a>
 
-<p align="left">
-<a href="https://twitter.com/atinos31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atinos31" height="30" width="40" /></a></p>
-<p><a href="https://www.linkedin.com/in/sandra-atino-459a231a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandra atino" height="30" width="40" /></a></p>
-<p><a href="https://fb.com/grace rock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grace rock" height="30" width="40" /></a></p
-<p><a href="https://instagram.com/dustyflame2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dustyflame2.0" height="30" width="40" /></a></p>
+  <p align="right">     
+  <li><a href="https://www.linkedin.com/in/sandra-atino/"><img src="https://img.shields.io/badge/-atinos31%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/sandra-atino-459a231a9" alt="LinkedIn Badge"></a> </li>
+     <li>  <a href="https://twitter.com/atinos31/"><img src="https://img.shields.io/badge/-atinos31-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/atinos31" alt="Twitter Badge"></a></li>
+ <li>  <a href="mailto:atinos31.dev@gmail.com"><img src="https://img.shields.io/badge/-Sandra%20Atino-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:atinos31.dev@gmail.com" alt="Gmail Badge"></a></li>
 
-------------------------------
+   </p>
+------------------------
+-------------------------
+
+## :fire: Github Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atinos31&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="atinos31" /></p>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atinos31&theme=highcontrast&show_icons=true?" alt="atinos31" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atinos31&theme=highcontrast" alt="atinos31" /></p>
+
+
+
+-------------------------------------------------
 
  
-## Programming Languages
+## Programming Languages<img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
@@ -109,28 +124,6 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-I'm always working on something cool<img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atinos31&show_icons=true&locale=en&layout=compact" alt="atinos31" /></p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atinos31&show_icons=true?" alt="atinos31" /></p></br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atinos31&" alt="atinos31" /></p>
-
-
-
--------------------------------------------------
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=atinos31" alt="atinos31" /></a> </p>
-
-### What i'm listening to on Spotify now 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 #
@@ -143,6 +136,15 @@ I'm always working on something cool<img src="https://camo.githubusercontent.com
    I am Fuelled by a life-long passion for IT and I use the tools and resources at my disposal to create systems that save time, help people work more effectively and improve over all user experience.
 ## Traveller at heart.
 ---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=atinos31&theme=highcontrast" alt="atinos31" /></a> </p>
+
+### What i'm listening to on Spotify now 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 ### Born & Bred In:
 
