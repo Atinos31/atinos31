@@ -49,15 +49,14 @@
 <a href="https://github.com/Atinos31"><img align="left" width="170" height="170" src="Sandra-octocat-rotating.gif"></a>
 
   <p align="right">     
-  <li><a href="https://www.linkedin.com/in/sandra-atino/"><img src="https://img.shields.io/badge/-atinos31%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/sandra-atino-459a231a9" alt="LinkedIn Badge"></a> </li>
-     <li>  <a href="https://twitter.com/atinos31/"><img src="https://img.shields.io/badge/-atinos31-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/atinos31" alt="Twitter Badge"></a></li>
- <li>  <a href="mailto:atinos31.dev@gmail.com"><img src="https://img.shields.io/badge/-Sandra%20Atino-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:atinos31.dev@gmail.com" alt="Gmail Badge"></a></li>
+  <p><a href="https://www.linkedin.com/in/sandra-atino/"><img src="https://img.shields.io/badge/-atinos31%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/sandra-atino-459a231a9" alt="LinkedIn Badge"></a> </p>
+     <p>  <a href="https://twitter.com/atinos31/"><img src="https://img.shields.io/badge/-atinos31-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/atinos31" alt="Twitter Badge"></a></p>
+    <p>         <a href="mailto:atinos31.dev@gmail.com"><img src="https://img.shields.io/badge/-Sandra%20Atino-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:atinos31.dev@gmail.com" alt="Gmail Badge"></a></p>
 
    </p>
-------------------------
--------------------------
+---
 
-## :fire: Github Stats
+## :fire: Github Streak Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atinos31&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="atinos31" /></p>
 
@@ -82,11 +81,14 @@
 
 ### Frameworks | Libraries | APIs
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%231D1D1D.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=FFFFFFF)
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
+![Alpinejs](https://img.shields.io/badge/alpinejs%20-%23646EDE.svg?&style=for-the-badge&logo=alpinejs&logoColor=FFFFFF)
 ![FLASK](https://img.shields.io/badge/flask%20-%23563F7C.svg?&style=for-the-badge&logo=Flask&logoColor=FFFF00)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
 ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
+![Wagtail](https://img.shields.io/badge/Wagtail%20-%2300471b.svg?&style=for-the-badge&logo=Wagtail&logoColor=F1BE32)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 ![Sass](https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=FFFFFF)
