@@ -132,10 +132,11 @@
 
 <details>
  <summary><h3>👩🏾‍💻Sandra's Coding Journey</h3></summary>
-   I started my coding journey as a bootcamp student with a passion to learn everything I could about this programming world -  My experience includes working with a wide range of technologies such as Python, Django,Wagtail, Javascript, Alpine.js,JQuery, Rest APIs , Bootstrap , Tailwindcss, Materialize, CSS & HTML
- I am also confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.
- This has made me a passionate, resourcefull full stack developer interested in developing robust, Full-stack applications that solve business needs.
-   I am Fuelled by a life-long passion for IT and I use the tools and resources at my disposal to create systems that save time, help people work more effectively and improve over all user experience.
+   <p>I started my coding journey as a bootcamp student with a passion to learn everything I could about this programming world</p>
+     <p>My experience includes working with a wide range of technologies such as Python, Django,Wagtail, Javascript, Alpine.js,JQuery, Rest APIs , Bootstrap , Tailwindcss, Materialize, CSS & HTML</p>
+<p> I am also confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.</p>
+
+  ---------------------------
 ## Traveller at heart.
 ---
 
