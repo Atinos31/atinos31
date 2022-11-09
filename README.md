@@ -126,7 +126,7 @@ I'm always working on something cool<img src="https://camo.githubusercontent.com
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=atinos31" alt="atinos31" /></a> </p>
 
-###My What i am listening to on Spotify now 🎧
+### What i'm listening to on Spotify now 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
