@@ -15,6 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" />
 </p>
 
+
 <!-- Profile Views: END -->
 
 <!--Image Gif-->
@@ -25,20 +26,27 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>✨ I’m Sandra </li>
-  
-  <li>👨‍💻 I work consistently to write and improve scalable content for brands and companies</li>
+  <li>👩🏾‍💻 I work consistently to write and improve scalable content for brands and companies</li>
   
   <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
   
-  <li>💬 I'm passionate about building sustainable tech communities, especially in the Open-Source space.</li>
-  
-  <li>🎉🌱 Fun Fact : I love contributing to open source projects</li>
+<li> :mailbox: How to reach me atinos31.dev@gmail.com</li>
+<li> :page_facing_up: Know about my experiences ![Resume](https://atinos31.github.io/resume.html)</li>
+  <li>💬  Hackathon collabs: [St.patricks](https://keisgsmit.github.io/Hackathon/), [Mental health](https://metimeminds.herokuapp.com/resources/), [Earth day](http://mother-earth-hackathon.herokuapp.com/), [Betaminds](https://beta-mind.herokuapp.com/), [pride-park](https://pride-park.herokuapp.com/)</li>
+
 </ul>
 
 <!-- About me section: END -->
 
 --------------------------
+#
+
+<details>
+ <summary><h3>👩🏾‍💻Sandra's Coding Journey</h3></summary>
+   I started my coding journey as a bootcamp student with a passion to learn everything I could about this programming world -  My experience includes working with a wide range of technologies such as Python, Django,Wagtail, Javascript, Alpine.js,JQuery, Rest APIs , Bootstrap , Tailwindcss, Materialize, CSS & HTML
+ I am also confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.
+ This has made me a passionate, resourcefull full stack developer interested in developing robust, Full-stack applications that solve business needs.
+   I am Fuelled by a life-long passion for IT and I use the tools and resources at my disposal to create systems that save time, help people work more effectively and improve over all user experience.
 
 <h3 align="left">Find me around the Web:</h3>
 
