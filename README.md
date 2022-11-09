@@ -39,14 +39,7 @@
 <!-- About me section: END -->
 
 --------------------------
-#
 
-<details>
- <summary><h3>👩🏾‍💻Sandra's Coding Journey</h3></summary>
-   I started my coding journey as a bootcamp student with a passion to learn everything I could about this programming world -  My experience includes working with a wide range of technologies such as Python, Django,Wagtail, Javascript, Alpine.js,JQuery, Rest APIs , Bootstrap , Tailwindcss, Materialize, CSS & HTML
- I am also confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.
- This has made me a passionate, resourcefull full stack developer interested in developing robust, Full-stack applications that solve business needs.
-   I am Fuelled by a life-long passion for IT and I use the tools and resources at my disposal to create systems that save time, help people work more effectively and improve over all user experience.
 
 <h3 align="left">Find me around the Web:</h3>
 
@@ -115,6 +108,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+
 I'm always working on something cool<img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
 ---
 
@@ -138,6 +132,15 @@ I'm always working on something cool<img src="https://camo.githubusercontent.com
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
+
+#
+
+<details>
+ <summary><h3>👩🏾‍💻Sandra's Coding Journey</h3></summary>
+   I started my coding journey as a bootcamp student with a passion to learn everything I could about this programming world -  My experience includes working with a wide range of technologies such as Python, Django,Wagtail, Javascript, Alpine.js,JQuery, Rest APIs , Bootstrap , Tailwindcss, Materialize, CSS & HTML
+ I am also confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.
+ This has made me a passionate, resourcefull full stack developer interested in developing robust, Full-stack applications that solve business needs.
+   I am Fuelled by a life-long passion for IT and I use the tools and resources at my disposal to create systems that save time, help people work more effectively and improve over all user experience.
 ## Traveller at heart.
 ---
 
