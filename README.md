@@ -1,15 +1,14 @@
 
-<h2 align="center">Hi there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<h2 align="left">Hi there<img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<p align="left">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 
 <!-- Animation Typing -->
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Sandra+Atino.;I'm++tech+fanatic;"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" /></a>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Sandra%20Atino;A%20Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" /></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -19,6 +18,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=atinos31&label=Profile%20views&color=0e75b6&style=flat" alt="atinos31" />
 </p>
+
 
 
 <!-- Profile Views: END -->
@@ -31,12 +31,12 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>👩🏾‍💻 I work consistently to write and improve scalable content for brands and companies</li>
+<li> I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</li>
+ <li>👩🏾‍💻 I work consistently to write and improve scalable content for brands and companies</li>
   
   <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
-  
-<li> :mailbox: How to reach me atinos31.dev@gmail.com</li>
 
+  
 </ul>
 
 <!-- About me section: END -->
@@ -54,16 +54,14 @@
     <p>         <a href="mailto:atinos31.dev@gmail.com"><img src="https://img.shields.io/badge/-Sandra%20Atino-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:atinos31.dev@gmail.com" alt="Gmail Badge"></a></p>
 
    </p>
+ 
 ---
 
-## :fire: Github Streak Stats
+## :fire: Github Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atinos31&theme=highcontrast" alt="atinos31" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atinos31&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="atinos31" /></p>
+</p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atinos31&theme=highcontrast&show_icons=true?" alt="atinos31" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atinos31&theme=highcontrast" alt="atinos31" /></p>
 
 
 
@@ -126,16 +124,29 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
 
+#
+
+### 📊 Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atinos31&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="atinos31" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atinos31&theme=highcontrast&show_icons=true?" alt="atinos31" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atinos31&theme=onedark)](https://github.com/atinos31/github-profile-trophy)
 
 
 #
 
 <details>
  <summary><h3>👩🏾‍💻Sandra's Coding Journey</h3></summary>
+ 
    <p>I started my coding journey as a bootcamp student with a passion to learn everything I could about this programming world</p>
      <p>My experience includes working with a wide range of technologies such as Python, Django,Wagtail, Javascript, Alpine.js,JQuery, Rest APIs , Bootstrap , Tailwindcss, Materialize, CSS & HTML</p>
 <p> I am also confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.</p>
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
   ---------------------------
 ## Traveller at heart.
 ---
