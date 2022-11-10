@@ -135,6 +135,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=atinos31&theme=onedark)](https://github.com/atinos31/github-profile-trophy)
 
+ <p> <img src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47fflbi8ttdsh5h3nbb0fhbbpspk5uzzszmc7ev84g&rid=giphy.gif&ct=g"></p>
 
 #
 
@@ -148,13 +149,9 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   ---------------------------
+  
+ 
 ## Traveller at heart.
----
-
-### What i'm listening to on Spotify now 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 ### Born & Bred In:
@@ -168,25 +165,7 @@
 ##### ✈ Countries Visited🌍
 ---
 
-![France](https://cdn.countryflags.com/thumbs/france/flag-400.png)<br>
 ---
-
-![Germany](https://cdn.countryflags.com/thumbs/germany/flag-400.png)<br>
----
-
-![Hungary](https://cdn.countryflags.com/thumbs/hungary/flag-400.png)<br>
----
-
-![Kenya](https://cdn.countryflags.com/thumbs/kenya/flag-400.png)<br>
----
-
-![Burundi](https://cdn.countryflags.com/thumbs/burundi/flag-400.png)<br>
----
-
-![Luxembourg](https://cdn.countryflags.com/thumbs/luxembourg/flag-400.png)<br>
----
-
-![Netherlands](https://cdn.countryflags.com/thumbs/netherlands/flag-400.png)<br>
 
 ----------------------------------
 
