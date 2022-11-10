@@ -151,8 +151,6 @@
   ---------------------------
   
  
-## Traveller at heart.
-
 
 ### Born & Bred In:
 
@@ -162,11 +160,6 @@
 ### Currently Residing In:
 
 ![Belgium](https://cdn.countryflags.com/thumbs/belgium/flag-400.png)
-##### ✈ Countries Visited🌍
----
 
----
-
-----------------------------------
 
 ... Code away!
