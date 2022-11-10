@@ -151,9 +151,6 @@
 ## Traveller at heart.
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=atinos31&theme=highcontrast" alt="atinos31" /></a> </p>
-
 ### What i'm listening to on Spotify now 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
