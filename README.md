@@ -56,7 +56,11 @@
    </p>
  
 ---
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  ---------------------------
+  
 ## :fire: Github Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atinos31&theme=highcontrast" alt="atinos31" />
 
