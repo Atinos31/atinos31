@@ -39,9 +39,11 @@
   <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
 <li>Professional Interests
 
-| Data        | Cloud         | AI |
+| Data       | Cloud Computing      | Artificial Intelligence |
 | ------------- |:-------------:| -----:|
-| DataScience      | Cloud Computing | Neuroscience |
+| DataScience    | digital Transformation | Neuroscience |
+  | Big Data     | Deep Learning | Machine Learning |
+
 
 </li>
   
