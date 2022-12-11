@@ -34,7 +34,7 @@
    <li>👩🏾‍💻 I work consistently to write and improve scalable content for brands and companies</li>
 
 <li> I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</li>
- <li>👩🏾‍💻 I work consistently to write and improve scalable content for brands and companies</li>
+
   
   <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
 <li>Professional Interests
