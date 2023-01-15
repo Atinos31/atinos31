@@ -31,18 +31,21 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-   <li>👩🏾‍💻 I work consistently to write and improve scalable content for brands and companies</li>
-
-<li> I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</li>
-
-  
-  <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
+  <li> I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</li>
+   <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.
 <li>Professional Interests
 
-| Data       | Cloud Computing      | Artificial Intelligence |
+  
+   <li>👩🏾‍💻 Proficient in Python, Javascript, Django, Wagtail, JQuery, Alpine.js, TailwindCSS, Bootstrap, Materialize, CSS, HTML</li>
+
+  <li>👩🏾‍💻 Familiarity with Git for version control and collaboration</li>
+    <li>👩🏾‍💻 Knowledge of best practices for web development , including accessibility and performance /li>
+
+
+| 1      | 2     | 3 |
 | ------------- |:-------------:| -----:|
-| DataScience    | digital Transformation | Neuroscience |
-  | Big Data     | Deep Learning | Machine Learning |
+| Data Analytics   | Creative coding | Artificial intelligence |
+  |     |  | Machine Learning |
 
 
 </li>
