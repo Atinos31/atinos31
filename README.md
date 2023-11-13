@@ -160,9 +160,9 @@
 <details>
  <summary><h3>👩🏾‍💻Sandra's Coding Journey</h3></summary>
  
-   <p>I started my coding journey as a bootcamp student with a passion to learn everything I could about this programming world</p>
-     <p>My experience includes working with a wide range of technologies such as Python, Django,Wagtail, Javascript, Alpinejs,JQuery, Rest APIs , Bootstrap , Tailwindcss, Materialize, CSS & HTML</p>
-<p> I am also confortable working with  SQL(postgreSQL, SQLite, mySQL) & NoSQL(MongoDB) databases.</p>
+   <p>I started my coding journey as a boot camp student with a passion to learn everything I could about this programming world</p>
+     <p>My experience includes working with a wide range of technologies such as Python, Django, Wagtail, Javascript, Alpinejs, JQuery, Rest APIs, Bootstrap , Tailwindcss, Materialize, CSS & HTML</p>
+<p> I am also comfortable working with  SQL(PostgreSQL, SQLite, MySQL) & NoSQL(MongoDB) databases.</p>
 
   ---------------------------
   
