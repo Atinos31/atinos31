@@ -1,12 +1,17 @@
-<h1 align="center">Hi there, I'm Sandra Atino 👋</h1>
-<h3 align="center">Full-Stack Software Developer & Agentic AI Systems Engineer</h3>
+<h1 align="center">Hi, I'm Sandra Atino 👋</h1>
+
+<h3 align="center">
+  I build useful software — and lately, I've been teaching some of it to think.
+</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20%26%20AI%20Engineer;Building%20Agentic%20AI%20%26%20Multi-Agent%20Systems;Django%2C%20Python%20%26%20Claude%20API%20Specialist;Experienced%20UI%2FUX%20Designer;4%2B%20Years%20of%20Production%20Experience&font=Fira+Code&center=true&width=550&height=45&color=F75C7E&vCenter=true&size=20&pause=1000">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20%26%20AI%20Engineer;Building%20Agentic%20AI%20%26%20Multi-Agent%20Systems;Django%2C%20Python%20%26%20Claude%20API%20Specialist;Experienced%20UI%2FUX%20Designer;4%2B%20Years%20of%20Production%20Experience&font=Fira+Code&center=true&width=550&height=45&color=F75C7E&vCenter=true&size=20&pause=1000" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Python%20%7C%20Django%20%7C%20PostgreSQL;Building%20AI-Powered%20Applications;Exploring%20Agentic%20AI%20%26%20Multi-Agent%20Systems;Nearly%204%20Years%20of%20Professional%20Experience&font=Fira+Code&center=true&width=650&height=45&color=F75C7E&vCenter=true&size=20&pause=1000">
+    <img 
+      src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Python%20%7C%20Django%20%7C%20PostgreSQL;Building%20AI-Powered%20Applications;Exploring%20Agentic%20AI%20%26%20Multi-Agent%20Systems;Nearly%204%20Years%20of%20Professional%20Experience&font=Fira+Code&center=true&width=650&height=45&color=F75C7E&vCenter=true&size=20&pause=1000"
+      alt="Typing SVG"
+    />
   </a>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/sandra-atino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:atinos31.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
