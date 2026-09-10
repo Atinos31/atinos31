@@ -21,7 +21,7 @@
 - 👩🏾‍💻 **Full-Stack Software Developer transitioning into Agentic AI**, drawing on 4+ years of web application development (Python, Django, PHP, JavaScript) to engineer autonomous, production-ready AI agent systems.
 - 🤖 **AI Engineering Focus:** Specializing in multi-agent orchestration, agent tool-calling loops, retrieval-augmented generation (RAG), vector similarity search, and real-time SSE streaming.
 - 🛠️ **Backend & Full-Stack Mastery:** Converting core business logic and Django ORM queries into LLM tools, designing custom CMS platforms, and deploying scalable web systems on Railway and AWS.
-- 💼 **Production Experience:** Built international web solutions at **CoLead Brussels** (including high-impact agricultural platforms like AGRINFO and AGRinnovators).
+- 💼 **Production Experience:** Built international web solutions at **[COLEAD Brussels](https://colead.link/)** (including high-impact agricultural platforms like [AGRINFO](https://agrinfo.eu/) and [Agrinnovators](https://agrinnovators.org/)).
 - 🌍 Based in **Belgium** 🇧🇪 | Originally from **Uganda** 🇺🇬.
 
 ---
