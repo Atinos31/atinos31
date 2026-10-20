@@ -1,143 +1,132 @@
+
 <h1 align="center">Hi, I'm Sandra Atino 👋</h1>
 
 <h3 align="center">
-  I build useful software — and lately, I've been teaching some of it to think.
+  Full-Stack Developer | Python • Django • Applied AI
 </h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Python+%7C+Django+%7C+PostgreSQL;Building+AI-Powered+Applications;Exploring+Agentic+AI+%26+Multi-Agent+Systems;Nearly+4+Years+of+Professional+Experience&font=Fira+Code&center=true&width=650&height=45&color=F75C7E&vCenter=true&size=20&pause=1000"
-    alt="Typing SVG"
-  />
+  I build useful software — and lately, I've been
+  exploring how to make it more intelligent.
 </p>
 
 <p align="center">
+  <a href="https://atinosdev.eu">
+    <img src="https://img.shields.io/badge/Portfolio-atinosdev.eu-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/sandra-atino/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Sandra_Atino-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="mailto:atinos31.dev@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=atinos31&label=Profile+Views&color=f75c7e&style=flat-square"
-    alt="Profile Views"
-  />
 </p>
 
 ---
 
-## ⚡ About Me
+## 👩🏾‍💻 About Me
 
-- 👩🏾‍💻 **Full-Stack Developer** with nearly four years of professional experience building, maintaining and improving production web applications and data-driven platforms.
+I'm a **full-stack developer based in Belgium**, with nearly four years of professional experience building and maintaining production web applications.
 
-- 🐍 My core stack is **Python, Django, Wagtail, PostgreSQL and JavaScript**.
+I enjoy working on backend systems, databases, APIs and interactive web experiences.
 
-- 🤖 I'm currently expanding into **AI-powered and agentic applications**, exploring LLM integration, tool calling, retrieval-augmented generation, vector search, automation and multi-agent workflows through hands-on projects.
+My strongest experience is in **Python, Django, Wagtail, PostgreSQL, JavaScript and WordPress**.
 
-- 🛠️ My strongest experience is in **backend and full-stack development** — turning business requirements into Django functionality, APIs, CMS architectures, database workflows and user-facing features.
+Previously, I worked at **COLEAD**, contributing to platforms including [AGRINFO](https://agrinfo.eu/) and [Agrinnovators](https://agrinnovators.org/).
 
-- 💼 At **[COLEAD](https://colead.link/)**, I contributed to production platforms including **[AGRINFO](https://agrinfo.eu/)** and **[Agrinnovators](https://agrinnovators.org/)**.
+These days, I'm exploring **AI engineering**, especially intelligent customer support, agent workflows, LLM integration and data engineering.
 
-- 🌍 Based in **Belgium 🇧🇪**, originally from **Uganda 🇺🇬**, and open to remote opportunities across Europe.
+- 📍 Based in Belgium 🇧🇪
+- 🌍 Originally from Uganda 🇺🇬
+- 💻 Interested in backend, Python/Django and full-stack roles
+- 🤖 Currently building AI-related projects
+- 🚀 Open to remote opportunities across Europe and hybrid roles in Belgium and Luxembourg
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Support System
+### 🤖 Django AI Employees
+**Personal Project — In Progress**
 
-> **What if customer-support software could do more than simply answer questions?**
+A Django-based customer support application exploring how AI can assist with business workflows.
 
-I'm building a Django-based intelligent customer-support application designed to explore how specialised AI agents can interact with business data, tools and workflows.
+**Implemented so far:**
+- Django applications for customer support and orders
+- Product, order and refund request models
+- Conversation and message structures
+- Agent activity logging models
 
-The project is being developed around concepts including:
+**Currently exploring:**
+- LLM integration
+- Agent tools and workflows
+- Retrieval-Augmented Generation (RAG)
+- Automation and human approval of sensitive actions
 
-- specialised support agents
-- escalation workflows
-- Django ORM tool integration
-- LLM tool calling
-- Retrieval-Augmented Generation
-- vector search
-- real-time response streaming
-- business workflow automation
+**Technologies:** Python · Django · MySQL
 
-**Current stack**
-
-`Python` `Django` `PostgreSQL` `LangChain` `ChromaDB` `LLMs` `RAG` `SSE`
-
-🔨 **Status:** Currently building
-
-👉 [View Repository](https://github.com/Atinos31/django-ai-employees)
+[View Repository →](https://github.com/Atinos31/django-ai-employees)
 
 ---
 
 ### 🌍 AGRINFO
+**Professional Project — COLEAD**
 
-> **Digital regulatory intelligence supporting agricultural trade and market access.**
+[AGRINFO](https://agrinfo.eu/) supports access to information about European regulatory developments affecting the agri-food sector.
 
-I contributed to the development and maintenance of AGRINFO while working as a Full-Stack Developer at COLEAD.
+I contributed as a member of the full-stack development team.
 
-My work included backend functionality, CMS development, debugging, data-related workflows, APIs and user-facing improvements.
+My work included:
+- Python, Django and Wagtail development
+- Backend and CMS functionality
+- Database-related work
+- Debugging and application improvements
+- Collaboration within a professional development team
 
-**Tech**
+**Technologies:** Python · Django · Wagtail · PostgreSQL · JavaScript · Tailwind CSS · Alpine.js
 
-`Python` `Django` `Wagtail` `PostgreSQL` `JavaScript` `Tailwind CSS` `Alpinejs` `Deepl`
-
-🌐 [Visit AGRINFO](https://agrinfo.eu/)
+[Visit AGRINFO →](https://agrinfo.eu/)
 
 ---
 
 ### 🌱 Agrinnovators
+**Professional Project — COLEAD**
 
-> **A digital platform supporting agricultural innovation and sustainable development.**
+[Innovators in Agriculture](https://agrinnovators.org/) is a platform supporting innovation, entrepreneurship and knowledge sharing in the agri-food sector.
 
-I contributed to the development and maintenance of Agrinnovators as part of my work at COLEAD.
+I worked on the website's end-to-end implementation.
 
-My work involved CMS architecture, backend functionality, content structures and frontend improvements.
+My contributions included:
+- WordPress and Divi development
+- Custom functionality using PHP, JavaScript and jQuery
+- Custom post types and ACF fields
+- Dynamic content queries, search and filtering
+- User registration functionality
+- Multilingual functionality with WPML
 
-**Tech**
+**Technologies:** WordPress · Divi · PHP · JavaScript · ACF · WPML · jQuery
 
-`Php` `Wordpress CMS` `DIVI` `JavaScript` `Jquery` `CSS`
-
-🌐 [Visit Agrinnovators](https://agrinnovators.org/)
+[Visit Agrinnovators →](https://agrinnovators.org/)
 
 ---
 
-## 🧠 What I'm Building Toward
+### 💻 Interactive Developer Portfolio
+**Personal Project**
 
-```yaml
-current_focus:
+My portfolio is built with React, Vite, Tailwind CSS and Three.js.
 
-  backend:
-    - Python
-    - Django
-    - PostgreSQL
-    - REST APIs
-    - application architecture
+It includes:
+- Interactive Three.js visualizations
+- Engineering and technology showcases
+- Selected professional project case studies
+- English/French translations using i18next
+- Responsive layouts
 
-  ai:
-    - LLM integration
-    - tool calling
-    - AI agents
-    - RAG
-    - vector databases
-    - multi-agent systems
+**Technologies:** React · JavaScript · Vite · Tailwind CSS · Three.js · i18next
 
-  engineering:
-    - testing
-    - Docker
-    - CI/CD
-    - deployment
-    - data engineering
-```
+[Visit Portfolio →](https://atinosdev.eu)
+
+[View Source Code →](https://github.com/Atinos31/atinosdev-portfolio)
 
 ---
 
@@ -146,229 +135,229 @@ current_focus:
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Wagtail-43B1B0?style=flat-square&logo=wagtail&logoColor=white" alt="Wagtail" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square" alt="REST APIs"/>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js"/>
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### CMS & Content Platforms
+### CMS
 
 <p>
-  <img src="https://img.shields.io/badge/Wagtail-43B1B0?style=flat-square&logo=wagtail&logoColor=white" alt="Wagtail" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Wagtail-43B1B0?style=flat-square&logo=wagtail&logoColor=white" alt="Wagtail"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Divi-7952B3?style=flat-square" alt="Divi"/>
+  <img src="https://img.shields.io/badge/ACF-60A5FA?style=flat-square" alt="ACF"/>
+  <img src="https://img.shields.io/badge/WPML-F59E0B?style=flat-square" alt="WPML"/>
 </p>
-
-### AI Lab
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square" alt="ChromaDB" />
-</p>
-
-`LLMs` `AI Agents` `RAG` `Vector Search` `Tool Calling` `Multi-Agent Systems`
 
 ### Developer Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 </p>
+
+### Currently Learning
+
+`AI Agents` `LLM Integration` `RAG` `Vector Search`
+`Docker` `Testing` `CI/CD` `Data Engineering`
 
 ---
 
 ## 💼 Professional Experience
 
-I previously worked as a **Full-Stack Developer at COLEAD**, contributing to production web platforms used for agricultural information, regulatory intelligence and innovation.
+### Full-Stack Developer — COLEAD
+**July 2022 – April 2026**
 
-My work included:
+Worked on production web platforms supporting regulatory information, agricultural knowledge and innovation.
 
-```diff
-+ Developing and maintaining Django and Wagtail,Wordpress CMS
-+ Building backend functionality
-+ Working with REST APIs
-+ Improving user-facing features
-+ Debugging and resolving production issues
-+ Supporting legacy data migrations
-+ Maintaining multilingual platforms
-+ Working with PostgreSQL and structured data
-+ Collaborating with technical and non-technical colleagues
-+ Turning business requirements into practical software solutions
-```
+My responsibilities included:
 
-One principle I've carried forward:
-
-> **Good software isn't the cleverest solution.  
-> It's the solution people can actually use.**
+- Developing and maintaining Django and Wagtail functionality
+- Building and maintaining WordPress features
+- Working with databases, APIs and structured content
+- Debugging application issues
+- Improving user-facing functionality
+- Collaborating with developers and non-technical colleagues
 
 ---
 
-## 🧪 Currently Learning & Exploring
+## 🎮 Fun — Developer Cheat Codes
 
-```python
-class Developer:
-    def __init__(self, name):
-        self.name = name
-        self.curious = True
+I enjoy finding small shortcuts that make development easier.
 
-    def current_focus(self):
-        return [
-            "AI Agents",
-            "LLM Integration",
-            "RAG",
-            "Vector Databases",
-            "Docker",
-            "Testing",
-            "CI/CD",
-            "Data Engineering",
-        ]
+Here are a few useful tricks from my Python, Django and Git workflow.
 
-    def workflow(self):
-        return [
-            "learn",
-            "build",
-            "break",
-            "debug",
-            "improve",
-            "ship",
-        ]
+<details>
+<summary><b>🐍 Cheat Code #1 — Django, but with less typing</b></summary>
 
-
-sandra = Developer("Sandra Atino")
-```
-
----
-
-## 💻 A Small Developer Shortcut I Use
-
-Because typing this repeatedly:
+Instead of:
 
 ```bash
 python manage.py runserver
 ```
 
-gets old quickly.
-
-I added a simple zsh alias:
+I added this to my `~/.zshrc`:
 
 ```bash
 alias pym="python manage.py"
 ```
 
-to:
-
-```bash
-~/.zshrc
-```
-
-Then reload the shell:
-
-```bash
-source ~/.zshrc
-```
-
-Now Django commands become:
+Now I can type:
 
 ```bash
 pym runserver
 pym makemigrations
 pym migrate
 pym shell
-pym dbshell
-pym createsuperuser
 pym test
 ```
 
-Small automation. Less typing. More building. ⚡
+Less typing. More coding. ⚡
+
+</details>
+
+<details>
+<summary><b>🔍 Cheat Code #2 — Who changed that line?</b></summary>
+
+When something unexpectedly stops working:
+
+```bash
+git blame path/to/file.py
+```
+
+It shows which commit last changed each line.
+
+Sometimes the person responsible is me. 😅
+
+</details>
+
+<details>
+<summary><b>🧹 Cheat Code #3 — Django health check</b></summary>
+
+Before running or deploying a Django application:
+
+```bash
+python manage.py check
+```
+
+For deployment-related configuration checks:
+
+```bash
+python manage.py check --deploy
+```
+
+These checks help catch configuration problems early.
+
+They don't replace automated tests or a security review.
+
+</details>
+
+<details>
+<summary><b>🌿 Cheat Code #4 — Save unfinished work with Git</b></summary>
+
+Need to switch tasks without committing unfinished changes?
+
+```bash
+git stash push -m "work in progress"
+git switch main
+```
+
+When ready to continue:
+
+```bash
+git switch my-feature-branch
+git stash pop
+```
+
+A useful shortcut when one bug suddenly turns into five.
+
+</details>
+
+<details>
+<summary><b>🧠 Cheat Code #5 — My debugging rule</b></summary>
+
+Before changing code, I try to answer three questions:
+
+1. What exactly is failing?
+2. Can I reproduce it consistently?
+3. What's the smallest change that fixes it?
+
+If possible, I then add a test to prevent the same issue from returning.
+
+</details>
 
 ---
 
 ## 🌱 Beyond the Terminal
 
-When I'm not debugging something, I'm probably:
+When I'm not coding, I enjoy:
 
-🌱 growing something  
-🍲 experimenting in the kitchen  
-🏡 redesigning a space  
-🇫🇷 improving my French  
-💡 thinking about another project I probably don't have time for  
+- 🌱 Gardening and growing things
+- 🍲 Cooking and trying new recipes
+- ✈️ Travelling and exploring different cultures
+- 🏡 Interior design and creative projects
+- 💃🏾 Dancing
 
-...or creating a bug so **Future Sandra** has something to debug.
+And sometimes spending far too long adjusting a React animation until it looks right.
 
 ---
 
 ## 🎯 Open to Opportunities
 
-I'm currently interested in roles including:
+I'm interested in:
 
-- **Full-Stack Developer**
-- **Python Developer**
-- **Django Developer**
-- **Backend Developer**
-- **Application Engineer**
+- Python Developer
+- Django Developer
+- Backend Developer
+- Full-Stack Developer
 
-I'm especially interested in teams building products where:
+Especially opportunities involving backend engineering, data, automation and practical AI applications.
 
-**Backend Engineering · Data · Automation · AI**
+**Location:** Belgium 🇧🇪
 
-come together to solve real problems.
+**Remote:** Europe 🌍
 
-```text
-location      Belgium 🇧🇪
-remote        Europe 🌍
-hybrid        Belgium · Luxembourg
-```
+**Hybrid:** Belgium · Luxembourg
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-
+  <a href="https://atinosdev.eu">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/sandra-atino/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Sandra_Atino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="mailto:atinos31.dev@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
-</p>
-
----
-
-<p align="center">
-  <b>I build useful software — and lately, I've been teaching some of it to think.</b>
 </p>
 
 <p align="center">
-  <sub>⚙️ README maintained by a human. Automation coming soon.</sub>
+  <b>Good software should solve real problems and be easy to maintain.</b>
 </p>
+
